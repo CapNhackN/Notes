@@ -1,0 +1,114 @@
+[[0_Common_0]]
+# Address, Variables, DNS: 
+```bash
+192.168.13.37
+```
+```bash
+vars 
+```
+---
+# System Information
+	OS:
+```
+
+```   
+	Hostname:
+```
+
+```
+	DNS:
+```
+
+```
+---
+## System Setup
+- Firewall: Enabled/Disabled. Will respond to ICMP?
+- Essential Services XXX (TCP XXX)
+---
+# Credentials
+	Username:  
+```
+administrator
+```
+	Password:
+```
+
+```
+
+	Username:  
+```
+
+```
+	NTLM Hash:
+```
+
+```
+---
+# Enumeration/Initial Access
+## Port Scan (Nmap)
+```
+Nmap scan report
+```
+---
+## What didn't work:
+	-
+
+## To-Try:
+
+### 
+
+
+###
+
+
+### 
+
+
+---
+## Exploits
+### {Exploit 1}
+> Title: 
+> EDB-ID: 
+> Link: [LINK]()
+
+---
+## Local
+```
+
+```
+---
+# Privilege Escalation
+### What Didn't work:
+	-
+
+## To-Try:
+
+### 
+
+
+---
+## Exploits
+### {Exploit 2}
+> Title:  
+> EDB-ID:
+> Link: [LINK]()
+---
+# Post Exploitation
+Proof
+```
+
+```
+---
+## Proof Screenshot
+
+---
+## Takeaway Concepts
+-
+
+
+---
+tags:
+  #Template
+
+---
+
